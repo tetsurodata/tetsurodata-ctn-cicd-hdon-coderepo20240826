@@ -86,5 +86,14 @@
     },
     "registeredAt": "2024-08-26T02:35:13.862Z",
     "registeredBy": "arn:aws:iam::785901227421:user/ctn-cicd-hdon",
-    "tags": []
+    "tags": [
+    {
+        "key": "Project",
+        "value": "ctn-cicd-hdon"
+    },
+    {
+        "key": "Environment",
+        "value": "Production"
+    }
+    ]
 }
